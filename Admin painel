@@ -1,0 +1,28 @@
+{
+  "usuario01": {
+    "senha": "1234",
+    "compra": "2025-01-05 14:22:00",
+    "validade": "2025-02-05 14:22:00",
+    "vendedor": "STAFF",
+    "versao": "v1.0",
+    "status": "ativo"
+  },
+
+  "usuario02": {
+    "senha": "abcd",
+    "compra": "2025-01-10 18:00:00",
+    "validade": "2025-02-10 18:00:00",
+    "vendedor": "MODZ",
+    "versao": "v1.1",
+    "status": "ativo"
+  },
+
+  "usuario03": {
+    "senha": "9999",
+    "compra": "2025-01-12 09:00:00",
+    "validade": "2025-01-20 09:00:00",
+    "vendedor": "STAFF",
+    "versao": "v1.1",
+    "status": "bloqueado"
+  }
+}
